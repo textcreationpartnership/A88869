@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter from Min Heer T.V.L. to Min Heer H.V.C. Faithfully translated from the original.</title>
+            <author>T. V. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88869</idno>
+            <idno type="STC">Wing L83C</idno>
+            <idno type="STC">ESTC R179228</idno>
+            <idno type="EEBO-CITATION">43663303</idno>
+            <idno type="OCLC">ocm 43663303</idno>
+            <idno type="VID">172063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter from Min Heer T.V.L. to Min Heer H.V.C. Faithfully translated from the original.</title>
+                  <author>T. V. L.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Amsterdam :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Dated on p. 2: Amsterdam March the 15th. 1689.</note>
+                  <note>Reproduction of original in: Christ Church (university of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172063:1"/>
+            <pb facs="tcp:172063:1" rendition="simple:additions"/>
+            <head>The Copy of a <hi>Letter</hi> from <hi>Min Heer T. V. L.</hi> to <hi>Min Heer H. V. C.</hi>
+            </head>
+            <head type="sub">Faithfully Tranſlated from the Original.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THo' I have a great deference for your Judgment, yet can I not give way to thoſe Fears, which you tell me you ſo mightily apprehend. On the contrary my Opinion is, tho' what you ſuggeſt ſhould prove true, yet would the Prince, our States, and the Confederates, be conſiderable Gainers by the Expedition.</p>
+            <p>What I ſay may ſeem a Paradox to one who runs, as you do, upon ſo high a ſtrain, in your apprehenſions of ſeeing all our Deſigns ruined by King <hi>James</hi>'s regaining the Poſſeſſion of His Kingdoms; but yet I doubt not but in few words, to make the matter clear to a much meaner Capacity than yours.</p>
+            <p>You know Sir, as well as I, that the firſt Deſign of the Confederates, was not the Security of the Proteſtant Religion, in <hi>England,</hi> nor the hindering their Laws from being changed, nor the Birth of a ſuppoſed Prince of <hi>Wales;</hi> but principally to oppoſe the King of <hi>France</hi>'s Power, and ſuppreſs his Growth. You know Sir alſo, that it was looked upon as impoſſible to make the late King of <hi>England</hi> a Partner in that Undertaking, or to have kept it ſecret, if it had been Propoſed to him; and therefore it was thought neceſſary, either to conſtrain him to take part with the Confederates, or elſe to reduce him to ſuch a ſtate, that it ſhould not lye in his Power to do them harm by lending his Aſſiſtance.</p>
+            <p>This made our States urge the Prince to hearken to the Propoſals of the <hi>Male Contents</hi> in <hi>England;</hi> and the hopes they had of compaſſing thoſe great Ends, to<g ref="char:EOLhyphen"/>gether with ſome ſmaller concerns of their own, were powerful Motives to fur<g ref="char:EOLhyphen"/>niſh him with Men, Money, Ships, and other Neceſſaries anſwerable to the Greatneſs of the Attempt.</p>
+            <p>Now what I affirm, is that tho' the Prince of <hi>Orange</hi> ſhould be at laſt forced to quit <hi>England,</hi> yet would neither he, nor any of the Confederates, nor our States of <hi>Holland</hi> be fruſtrated of their hopes, but would ſufficiently obtain their Ends.</p>
+            <p n="1">1. Not he; For you know that according to his Declaration he did not at firſt aim at the Crown of <hi>England;</hi> but when he ſaw it ready to drop upon his head, a far leſs Ambitious Man than he, would have ſcarce refuſed it. It was his Natu<g ref="char:EOLhyphen"/>ral Antipathy to the King of <hi>France,</hi> and the deſire of Glory, which puſhed him on to make that Attempt, which we muſt needs ſay, Nature would have other<g ref="char:EOLhyphen"/>wiſe abhorred. And the hopes his Souldiers had to have laden themſelves with the Spoils of a Countrey which a long Peace, Proſperity and Trafick, had not only made Rich, but Luxurious and Effeminate, made them follow him with Joy in that Expedition. And you may aſſure your ſelf, let what will come, they will accompliſh their firſt Deſigns; and if he be Beaten off from his other Attempt, 'tis becauſe he went farther than his Commiſſion.</p>
+            <p>I ſay, he will gain his firſt ends, and inſtead of either loſing his Honour, or waſting his Treaſure (as you ſuggeſt) will no doubt, both enrich himſelf and his Companion, and gain a due eſteem amongſt all the Confederates, by providing ſo effectually againſt the common Enemy.</p>
+            <p>For ſhould it happen (as you fear it will) that the late King <hi>James</hi> by the Aid of the <hi>Iriſh</hi> and <hi>Scotch,</hi> ſhould enter into <hi>England</hi> and find that People, who are ſtrangely changeable in their Humours, ready to embrace him again for their So<g ref="char:EOLhyphen"/>veraign, and like a wanton Steed, caſt their Rider before he be well ſeated in the Saddle, yet can you not in Prudence think, that he who has the actual Poſſeſſion of all the Forts and Magazines, and by conſequence the Strength and Riches of the Nation in his hands; and that he who Commands the Ports and Navy, and has put what Officers he pleaſes in every Station, will go away empty handed, or leave the Nation in a Capacity to do either him or his Confederates any miſchief.</p>
+            <pb facs="tcp:172063:2"/>
+            <p> Aſſure your ſelf Sir, he will not go till he has Fleec'd that Proud and Pamper'd Nation. The Forts ſhall be firſt, if not diſmantl'd, at leaſt render'd uſeleſs by withdrawing all the Cannon and Amunition from them; ſome pretences or other will be found out to drain the <hi>Exchequer,</hi> to melt down the <hi>Plate,</hi> to be Maſter of the Richeſt <hi>Jewels,</hi> to remove the moſt Stately Furniture, to borrow immenſe Sums, and by this means, if he cannot keep the Crown, he will at leaſt enrich himſelf; and the free Plunder of the City of <hi>London,</hi> will be a ſufficient recom<g ref="char:EOLhyphen"/>pence for his Souldiers, if they find they muſt be gone. Neither can you doubt of his being able to carry all this off, when you conſider that he is not ſo unpolitick a Prince, but that he will take ſuch effectual care to ſecure the <hi>Engliſh</hi> Fleet from do<g ref="char:EOLhyphen"/>ing him any harm, that on the contrary, he will certainly bring the Chiefeſt Veſ<g ref="char:EOLhyphen"/>ſels into <hi>Holland</hi> with him.</p>
+            <p n="2">2. This will fully Anſwer all the Expectations of our Confederates; for all that could have been hop'd for from <hi>England,</hi> would have been either to make them ſit ſtill, or lend the Aſſiſtance of their Fleet, with ſome few Regiments: And as for ſitting ſtill, they muſt neceſſarily do it when they are ſo impoveriſhed, and the Augmentation of our Fleet by thoſe Veſſels, will make us formidable to the <hi>French</hi> by Sea; neither will he want as great an Army of <hi>Engliſh,</hi> who will be forced to fly with him as he could have ſent, had he continued a Peaceable Poſſeſſor of the Crown.</p>
+            <p n="3">3. Our States of <hi>Holland</hi> will be the moſt conſiderable Gainers in this Affair; For 'tis manifeſt, the Three Kingdoms will be ſo impoveriſhed, that they will not be able to recover it 100 years of Peace; but you may aſſure your ſelf, we ſhall not permit that neither; for having once got them under, we ſhould be Fools if we did not labour to keep them ſo, and let them have neither Commerce abroad, nor Peace at home, but what we ſhall think good to allow them.</p>
+            <p>
+               <hi>Thus Sir, you ſee I am ſo far from heing of your mind, that this Expedition of the late King JAMES will be the utter ruine of our Affairs if it ſucceed, that I can ſcarce hinder my ſelf from wiſhing Him all the Succeſs He hopes for, being perſwaded that otherwiſe we cannot expect to impoveriſh that Nation, nor humble it to ſuch a De<g ref="char:EOLhyphen"/>gree, as I hope the Prince of <hi>Orange</hi>'s Return will do. I am</hi>
+            </p>
+            <closer>
+               <salute>Min Heer,</salute> 
+               <signed>Your moſt humble Servant, <hi>T. V. L.</hi>
+               </signed> 
+               <dateline>Amſterdam <date>March the 15th. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="comment_on_letter">
+            <p>I hear ſome perſons doubt of the Truth of this <hi>Letter;</hi> but I think no one that ſees the Tranſactions at preſent, can be of ſo Incredulous a Nature. 'Tis mani<g ref="char:EOLhyphen"/>feſt that almoſt all the Arms and Amunition are ſent out of the <hi>Tower,</hi> and other Magazines to <hi>Holland;</hi> not to <hi>Ireland</hi> nor <hi>Scotland,</hi> as we are made believe. The <hi>Exchequer</hi> is already drain'd. <hi>French Hugonots</hi> are underhand Armed with an En<g ref="char:EOLhyphen"/>couragement of a free Plunder of the City, if things ſucceed not to their minds. The Souldiers and Sea-men whoſe Loyalty they miſtruſt, are, or muſt be Ship'd away for <hi>Holland,</hi> and from thence to the <hi>Indies,</hi> where they are like to Expiate their Treachery to King <hi>James</hi> with a ſevere Puniſhment, a perpetual Slavery. The <hi>Royal Plate</hi> is Melted down. Money is endeavoured to be borrowed, if the Citizens will take a Tax, which is not likely to be Raiſed, for their Security. What will become of the <hi>Jewels</hi> Borrowed for the Corronation, let them that lent them find by Experience. And as for ruining our Trade and Commerce, our Merchands find that <hi>Dutch Bottoms</hi> can now Import Merchandize into <hi>England</hi> without con<g ref="char:EOLhyphen"/>troul. So that nothing is now remaining to be effected, but the Demoliſhing our Forts, Burning or Sinking our Ships, Plundering the City, and Scampering.</p>
+            <pb facs="tcp:172063:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
